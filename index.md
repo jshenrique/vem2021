@@ -4,3 +4,4 @@ Todos os dados considerados no estudo "Minerando Motivações para Aplicação d
 --
 [dados-vem - Original.xlsx](https://github.com/jshenrique/vem2021/files/7006292/dados-vem.-.Original.xlsx)
 --
+.
